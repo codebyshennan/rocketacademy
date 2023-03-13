@@ -1,0 +1,15 @@
+[submodule "succinct-cut"]
+	path = succinct-cut
+	url = https://github.com/Ennnm/succinct-cut.git
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/codebyshennan/restaurant.git
+[submodule "trainingplatform"]
+	path = trainingplatform
+	url = https://github.com/codebyshennan/trainingplatform.git
+[submodule "videopoker"]
+	path = videopoker
+	url = https://github.com/codebyshennan/videopoker.git
+[submodule "mahjong"]
+	path = mahjong
+	url = https://github.com/codebyshennan/mahjong.git
